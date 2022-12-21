@@ -1,5 +1,7 @@
 # memo
 
+{docsify-updated}
+
 メモを記載する
 
 https://takeyy.github.io/memo/#/
