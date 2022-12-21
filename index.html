@@ -15,10 +15,25 @@
       title="docsify-darklight-theme"
       type="text/css"
     />
+    <script src="https://cdn.tailwindcss.com"></script>
   </head>
   <body>
     <div id="app"></div>
     <script>
+      function formatDate(date, format) {
+        format = format.replace(/yyyy/g, date.getFullYear());
+        format = format.replace(/MM/g, ("0" + (date.getMonth() + 1)).slice(-2));
+        format = format.replace(/dd/g, ("0" + date.getDate()).slice(-2));
+        format = format.replace(/HH/g, ("0" + date.getHours()).slice(-2));
+        format = format.replace(/mm/g, ("0" + date.getMinutes()).slice(-2));
+        format = format.replace(/ss/g, ("0" + date.getSeconds()).slice(-2));
+        format = format.replace(
+          /SSS/g,
+          ("00" + date.getMilliseconds()).slice(-3)
+        );
+        return format;
+      }
+
       window.$docsify = {
         name: "The Magic of Memos",
         repo: "https://github.com/takeYY/memo",
@@ -26,6 +41,16 @@
         maxLevel: 4,
         subMaxLevel: 3,
         search: "auto", // default
+        formatUpdated: function (time) {
+          const updatedAt = formatDate(new Date(time), "yyyy/MM/dd HH:mm");
+          return `<div class="flex text-gray-400">
+                    <div class="w-4/5"></div>
+                    <div class="w-1/5">
+                      <div class="flex justify-center">Last Modified</div>
+                      <div class="flex justify-center overline">${updatedAt}</div>
+                    </div>
+                  </div>`;
+        },
       };
     </script>
     <!-- Docsify v4 -->
