@@ -1,2 +1,3 @@
 - [<< TMDb](/TMDb/README.md)
 - [Movies Detail](/TMDb/API/movies_detail.md)
+- [Person Details](/TMDb/API/person_details.md)
