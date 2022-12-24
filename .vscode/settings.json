@@ -4,5 +4,12 @@
     "source.organizeImports": true
   },
   "docsifyPreview.indexFile": "index.html",
-  "cSpell.words": ["pyproject", "mypy", "Pylance"]
+  "cSpell.words": [
+    "pyproject",
+    "mypy",
+    "Pylance",
+    "docsify",
+    "themeable",
+    "darklight"
+  ]
 }
