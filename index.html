@@ -15,7 +15,6 @@
       title="docsify-darklight-theme"
       type="text/css"
     />
-    <script src="https://cdn.tailwindcss.com"></script>
   </head>
   <body>
     <div id="app"></div>
@@ -43,11 +42,11 @@
         search: "auto", // default
         formatUpdated: function (time) {
           const updatedAt = formatDate(new Date(time), "yyyy/MM/dd HH:mm");
-          return `<div class="flex text-gray-400">
-                    <div class="w-4/5"></div>
-                    <div class="w-1/5">
-                      <div class="flex justify-center">Last Modified</div>
-                      <div class="flex justify-center overline">${updatedAt}</div>
+
+          return `<div style="color: rgb(45 212 191);">
+                    <div style="width: 40%; margin: 0 0 0 auto;">
+                      <div style="text-align: center;">Last Modified</div>
+                      <div style="text-align: center; text-decoration-line: overline;">${updatedAt}</div>
                     </div>
                   </div>`;
         },
@@ -61,11 +60,12 @@
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-json.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-go.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
 
     <!-- docsify-themeable (latest v0.x.x) -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
     <script
       src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
       type="text/javascript"
