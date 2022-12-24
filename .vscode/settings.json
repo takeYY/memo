@@ -3,5 +3,6 @@
   "editor.codeActionsOnSave": {
     "source.organizeImports": true
   },
-  "docsifyPreview.indexFile": "index.html"
+  "docsifyPreview.indexFile": "index.html",
+  "cSpell.words": ["pyproject", "mypy", "Pylance"]
 }
