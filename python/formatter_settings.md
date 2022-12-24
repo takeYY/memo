@@ -1,12 +1,14 @@
 # フォーマッターの設定
 
+{docsify-updated}
+
 ## VSCode
 
 ### settings.json にコピペするだけ
 
 https://deecode.net/?p=2047
 
-```jsonc
+```json
 {
   // 保存時のフォーマットを有効にする
   "": {
