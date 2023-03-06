@@ -1,0 +1,1 @@
+- [責任共有モデル](/AWS/glossary/shared_responsibility_model.md)
