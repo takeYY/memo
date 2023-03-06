@@ -8,6 +8,12 @@
 git tag -a {:TAG} -m '{:COMMENT}'
 ```
 
+### 例
+
+```bash
+git tag -a v1.3 -m "2020.12.25リリース"
+```
+
 ## リモートに反映
 
 ```bash
