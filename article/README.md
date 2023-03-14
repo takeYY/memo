@@ -7,3 +7,15 @@
 ## kaggle slack の過去ログ閲覧アプリを GAE で構築した話
 
 https://yutori-datascience.hatenablog.com/entry/2018/07/05/115919
+
+## シリコンバレーで働いて気付いた「技術力向上」だけに固執するエンジニアのダメさ (2018.11.27)
+
+https://type.jp/et/feature/9402/
+
+## 日々の進捗の出し方 (2019/02/14)
+
+https://nhiroki.jp/2019/02/14/make-progress
+
+## 設計に悩みすぎる前に手を動かしてみる話 (2021/09/24)
+
+https://nhiroki.jp/2021/09/24/coding-before-overthinking
