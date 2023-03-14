@@ -19,3 +19,7 @@ https://nhiroki.jp/2019/02/14/make-progress
 ## 設計に悩みすぎる前に手を動かしてみる話 (2021/09/24)
 
 https://nhiroki.jp/2021/09/24/coding-before-overthinking
+
+## 「結果も大事だが、プロセスを語れる人には魅力がある」エンジニア採用担当が語る、選考中に目にとまりやすい人材とは (2023-02-28)
+
+https://logmi.jp/tech/articles/328113
