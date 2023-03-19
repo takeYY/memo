@@ -23,3 +23,9 @@ https://nhiroki.jp/2021/09/24/coding-before-overthinking
 ## 「結果も大事だが、プロセスを語れる人には魅力がある」エンジニア採用担当が語る、選考中に目にとまりやすい人材とは (2023-02-28)
 
 https://logmi.jp/tech/articles/328113
+
+## ダークモード
+
+- ページ下に有名サービスの背景色が載っている
+
+https://www.webcreatorbox.com/tech/dark-mode
