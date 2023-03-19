@@ -3,5 +3,8 @@
 - [AWS](/AWS/README.md)
 - [DDD](/DDD/README.md)
 - [git](/git/README.md)
+- [NextJS](/NextJS/README.md)
+- [Notion](/Notion/README.md)
 - [python](/python/README.md)
 - [TMDb](/TMDb/README.md)
+- [TypeScript](/TypeScript/README.md)
