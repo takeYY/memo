@@ -1,0 +1,1 @@
+- [AWS エンジニア入門講座 - 学習ロードマップで体系的に学ぶ](/books/AWS_Engineer_Introductory_Course.md)
