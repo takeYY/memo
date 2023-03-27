@@ -1,10 +1,16 @@
-# memo
+<div align="center">
+
+# The Magic of Memo
+
+[![pages-build-deployment](https://github.com/takeYY/memo/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/takeYY/memo/actions/workflows/pages/pages-build-deployment)
 
 {docsify-updated}
 
-メモを記載する
-
 https://takeyy.github.io/memo/#/
+
+</div>
+
+---
 
 ## 使い方
 
