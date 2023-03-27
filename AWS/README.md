@@ -11,3 +11,7 @@ https://docs.aws.amazon.com/ja_jp/vpc/latest/privatelink/vpc-endpoints.html
 ## VPC ピアリングを使用して VPC を接続する
 
 https://docs.aws.amazon.com/ja_jp/vpc/latest/userguide/vpc-peering.html
+
+## IAM でのセキュリティのベストプラクティス
+
+https://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/best-practices.html
