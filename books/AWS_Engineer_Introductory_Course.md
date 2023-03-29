@@ -39,6 +39,10 @@
   - コストの最適化
   - 持続可能性
 
+> AWS Well-Architected Framework
+>
+> https://aws.amazon.com/jp/architecture/well-architected
+
 ### 1.3: 責任共有モデル
 
 - 責任共有モデル
@@ -69,10 +73,6 @@
   - 停止
 - コスト配分
   - リソース別のコストをグループ化する
-
-> AWS Well-Architected Framework
->
-> https://aws.amazon.com/jp/architecture/well-architected
 
 ---
 
