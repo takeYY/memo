@@ -8,5 +8,6 @@
 - [NextJS](/NextJS/README.md)
 - [Notion](/Notion/README.md)
 - [python](/python/README.md)
+- [Tips](/Tips/README.md)
 - [TMDb](/TMDb/README.md)
 - [TypeScript](/TypeScript/README.md)
