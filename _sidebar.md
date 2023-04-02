@@ -7,6 +7,7 @@
 - [git](/git/README.md)
 - [NextJS](/NextJS/README.md)
 - [Notion](/Notion/README.md)
+- [PlantUML](/PlantUML/README.md)
 - [python](/python/README.md)
 - [Slack](/Slack/README.md)
 - [Tips](/Tips/README.md)
