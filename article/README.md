@@ -33,3 +33,7 @@ https://www.webcreatorbox.com/tech/dark-mode
 ## ゆめみオープン・ハンドブック
 
 https://notion.yumemi.co.jp/
+
+## 仕事と給与と評価の関係
+
+https://speakerdeck.com/sogitani1107/shi-shi-togei-yu-toping-jia-falseguan-xi
