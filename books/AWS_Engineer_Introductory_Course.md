@@ -2,11 +2,15 @@
 
 {docsify-updated}
 
-###### tags: `.AWS`, `.Introduction`
+###### tags: `.AWS`, `.Introduction`, `.Book`, `.Tech`
+
+---
 
 ###### サポートページ: https://gihyo.jp/book/2022/978-4-297-12537-0/support
 
 ###### クラウドエンジニアロードマップ特設コンテンツ: https://kws-cloud-tech.com/courses/roadmap
+
+---
 
 ## 感想
 

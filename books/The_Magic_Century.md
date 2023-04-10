@@ -1,6 +1,10 @@
 # 魔法の世紀
 
-###### tags: `.Mind`, `.Book`
+{docsify-updated}
+
+###### tags: `.Mind`, `.Book`, `.Thinking`
+
+---
 
 ## まえがき
 
