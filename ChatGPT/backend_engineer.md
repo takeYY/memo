@@ -1,5 +1,11 @@
 # API エンジニアリング
 
+{docsify-updated}
+
+###### tags: `.AI`, `.ChatGPT`, `.Backend`, `.Engineer`, `.API`
+
+---
+
 ![question](./assets/question.png)
 
 ![web api advantage](./assets/WebAPI_advantage.png)
