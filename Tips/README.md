@@ -14,6 +14,18 @@
   brew install jq
   ```
 
+## httpie
+
+- cURL よりも簡単に書ける
+
+  ```bash
+  brew install httpie
+  ```
+
+> 参考記事
+>
+> https://michimani.net/post/development-about-httpie-cli-of-http-client/
+
 ## 大文字と小文字を区別せずに補完する
 
 - `~/.zshrc`ではなく、`~/.zprofile`でも良い
