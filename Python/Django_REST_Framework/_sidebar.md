@@ -1,1 +1,1 @@
-> ###### [Home](/README.md) > [python](/python/README.md) > [Django REST Framework](/python/Django_REST_Framework/README.md)
+> ###### [Home](/README.md) > [Python](/Python/README.md) > [Django REST Framework](/Python/Django_REST_Framework/README.md)

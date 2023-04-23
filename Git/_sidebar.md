@@ -1,6 +1,6 @@
-> ###### [Home](/README.md) > [git](/git/README.md)
+> ###### [Home](/README.md) > [Git](/Git/README.md)
 
 ---
 
-- [commit](/git/git_commit.md)
-- [tag](/git/git_tag.md)
+- [commit](/Git/git_commit.md)
+- [tag](/Git/git_tag.md)
