@@ -1,4 +1,4 @@
-# article
+# Article
 
 技術記事とか
 
