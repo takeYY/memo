@@ -4,6 +4,7 @@
 
 - [AWS エンジニア入門講座/](/Books/AWS_Engineer_Introductory_Course/README.md)
 - [FACTFULNESS/](/Books/FACTFULNESS/README.md)
+- [完璧なリーダーは、もういらない/](/Books/No_More_Perfect_Leaders/README.md)
 
 ---
 
