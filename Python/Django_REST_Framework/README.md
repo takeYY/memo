@@ -15,3 +15,7 @@ https://tech-blog.rakus.co.jp/entry/20220329/python
 ## Serializer
 
 `Serializer` クラスは、データベースから取り出したモデルのオブジェクトを JSON に `serialize` したり、ユーザから送られた JSON を `deserialize` するためのクラス
+
+### 【Django4】Django REST Framework で API 作成
+
+https://chigusa-web.com/blog/django-rest-framework/
