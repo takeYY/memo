@@ -37,3 +37,11 @@ https://notion.yumemi.co.jp/
 ## 仕事と給与と評価の関係
 
 https://speakerdeck.com/sogitani1107/shi-shi-togei-yu-toping-jia-falseguan-xi
+
+## markdown の数式チートシート
+
+https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada
+
+## Markdown コマンド：演算子・集合・論理の記号
+
+https://oversleptabit.com/archives/5270
