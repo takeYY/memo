@@ -45,3 +45,7 @@ https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada
 ## Markdown コマンド：演算子・集合・論理の記号
 
 https://oversleptabit.com/archives/5270
+
+## 【AWS】ぼくのかんがえたさいきょうの運用・監視構成
+
+https://qiita.com/iStone/items/72417fe599e71e62f631
