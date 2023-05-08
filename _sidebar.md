@@ -9,6 +9,7 @@
 - [ChatGPT/](/ChatGPT/README.md)
 - [DDD/](/DDD/README.md)
 - [Git/](/Git/README.md)
+- [Money](/Money/README.md)
 - [NextJS/](/NextJS/README.md)
 - [Notion/](/Notion/README.md)
 - [PlantUML/](/PlantUML/README.md)
