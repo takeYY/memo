@@ -1,5 +1,5 @@
-> ###### [Home](/README.md) > [Slack](/Slack/README.md)
+> ###### :paw_prints: [Home](/README.md) > [Slack](/Slack/README.md)
 
 ---
 
-- [Slack API](/Slack/api.md)
+- [:memo: Slack API](/Slack/api.md)

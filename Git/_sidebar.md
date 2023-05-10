@@ -1,7 +1,7 @@
-> ###### [Home](/README.md) > [Git](/Git/README.md)
+> ###### :paw_prints: [Home](/README.md) > [Git](/Git/README.md)
 
 ---
 
-- [branch](/Git/git_branch.md)
-- [commit](/Git/git_commit.md)
-- [tag](/Git/git_tag.md)
+- [:memo: branch](/Git/git_branch.md)
+- [:memo: commit](/Git/git_commit.md)
+- [:memo: tag](/Git/git_tag.md)

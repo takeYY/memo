@@ -1,5 +1,5 @@
-> ###### [Home](/README.md) > [Notion](/Notion/README.md)
+> ###### :paw_prints: [Home](/README.md) > [Notion](/Notion/README.md)
 
 ---
 
-- [API/](/Notion/API/README.md)
+- [:file_folder: API](/Notion/API/README.md)

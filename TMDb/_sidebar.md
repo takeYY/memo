@@ -1,3 +1,5 @@
-> ###### [Home](/README.md) > [TMDb](/TMDb/README.md)
+> ###### :paw_prints: [Home](/README.md) > [TMDb](/TMDb/README.md)
 
-- [API/](/TMDb/API/README.md)
+---
+
+- [:file_folder: API](/TMDb/API/README.md)

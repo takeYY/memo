@@ -1,7 +1,7 @@
-> ###### [Home](/README.md) > [TMDb](/TMDb/README.md) > [API](/TMDb/API/README.md)
+> ###### :paw_prints: [Home](/README.md) > [TMDb](/TMDb/README.md) > [API](/TMDb/API/README.md)
 
 ---
 
-- [Image Size](/TMDb/API/image_size.md)
-- [Movies Detail](/TMDb/API/movie_details.md)
-- [Person Details](/TMDb/API/person_details.md)
+- [:memo: Image Size](/TMDb/API/image_size.md)
+- [:memo: Movies Detail](/TMDb/API/movie_details.md)
+- [:memo: Person Details](/TMDb/API/person_details.md)
