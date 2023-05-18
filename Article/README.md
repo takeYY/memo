@@ -49,3 +49,7 @@ https://oversleptabit.com/archives/5270
 ## 【AWS】ぼくのかんがえたさいきょうの運用・監視構成
 
 https://qiita.com/iStone/items/72417fe599e71e62f631
+
+## Python を Web 開発で使う理由を検討する
+
+https://zenn.dev/nameless_sn/scraps/de0da8b86ea31d
