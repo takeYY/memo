@@ -3,6 +3,7 @@
 ---
 
 - [:file_folder: Django REST Framework](/Python/Django_REST_Framework/README.md)
+- [:file_folder: FastAPI](/Python/FastAPI/README.md)
 
 ---
 
