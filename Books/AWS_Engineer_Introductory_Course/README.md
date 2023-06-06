@@ -371,3 +371,11 @@
 ---
 
 ## Chapter.06: Amazon VPC
+
+### 6.1: VPC とは
+
+- Virtual Private Cloud
+- 仮想ネットワークサービス
+- AWS リソースを動かす土台
+
+### 6.2: サブネット
