@@ -10,6 +10,7 @@
     "Pylance",
     "docsify",
     "themeable",
-    "darklight"
+    "darklight",
+    "oreilly"
   ]
 }
