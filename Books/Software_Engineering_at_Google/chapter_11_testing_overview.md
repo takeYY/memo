@@ -5,3 +5,6 @@
 ###### tags: `.Engineer`, `.Book`, `.Tech`, `.Oreilly`
 
 ---
+
+- テストスイート (test suite)
+- トイル (toil)
