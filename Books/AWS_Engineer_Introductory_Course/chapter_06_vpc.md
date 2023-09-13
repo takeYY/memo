@@ -60,3 +60,10 @@
   - IP アドレスを動的に変える
 
 #### 6.7: Elastic Network Interface
+
+- NIC (Network Interface Card)
+- NIC を増設すると 1 つの端末に複数の IP アドレスを割り振れる
+- ENI (Elastic Network Interface)
+  - AWS マネジメントコンソール上で追加できる NIC
+
+#### 6.8: セキュリティグループ
